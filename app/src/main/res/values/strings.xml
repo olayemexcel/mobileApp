@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LivestockFinder1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="olayemexcel_app">Olayemexcel App</string>
+    <string name="livestock_finder">Livestock Finder</string>
+    <string name="dashboard_screen">Dashboard Screen</string>
+    <string name="discover_your_favourite_livestock">Discover Your Favourite Livestock!</string>
+    <string name="we_have_the_widest_livestock_locations_across_the_world_waiting_for_your_grab">We have the widest livestock locations across the World, waiting for your grab..</string>
+    <string name="get_started">Get Started</string>
+</resources>
